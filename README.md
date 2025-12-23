@@ -1,4 +1,4 @@
-# Alan Lu Portfolio
+# Portfolio
 
 A single-page portfolio for Alan Lu built with Vite, React, TypeScript, and Tailwind. It highlights projects, experience, and skills with smooth in-page navigation, a light/dark theme toggle, and a subtle 3D snow overlay for seasonal flair.
 
